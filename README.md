@@ -1,7 +1,7 @@
- #Hello! My name is Ricardo, Brazilian, development student.
- #Studing a lot to become a developer
- #Take a look in some projects on my repositories. 
- #I'll be happy if you give some stars.
+ ##Hello! My name is Ricardo, Brazilian, development student. 
+ ####Studing a lot to become a developer
+ ####Take a look in some projects on my repositories. 
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbettarelli&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
