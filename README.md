@@ -1,6 +1,6 @@
- ##Hello! My name is Ricardo, Brazilian, development student. 
- ####Studing a lot to become a developer
- ####Take a look in some projects on my repositories. 
+ ## Hello! My name is Ricardo, Brazilian, development student. 
+ #### Studing a lot to become a developer
+ #### Take a look in some projects on my repositories. 
 
 
 
