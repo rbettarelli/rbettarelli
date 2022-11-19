@@ -1,4 +1,6 @@
- ## Hello! My name is Ricardo, Brazilian, development student. 
+ ## Hello! 
+ #### My name is Ricardo, Brazilian, development student. 
+ I'm currently on a full-stack web development adventure with the good knowledge of JavaScript, CSS and HTML. Looking forward to join another adventurous team and help   on some interesting projects!
  #### Studing a lot to become a developer
  #### Take a look in some projects on my repositories. 
 
