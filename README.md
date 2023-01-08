@@ -18,13 +18,8 @@
   <img align="center" alt="rbettarelli-Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg">
   <img align="center" alt="rbettarelli-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
  <img align="center" alt="rbettarelli-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+ <img align="center" alt="rbettarelli-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
  
- 
- 
- 
- 
- 
-
 </div>
 
 
